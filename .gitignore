@@ -1,0 +1,11 @@
+# Logseq backup and cache files
+logseq/bak/
+logseq/.recycle
+
+# Common OS and editor specific files
+.DS_Store
+.cache
+.idea
+node_modules
+dist
+
