@@ -8,9 +8,9 @@
 - git clone https://github.com/Rocky-Zhang-Ya/Assignment-one-ml.git - assignment 1
 - git clone https://github.com/DarkFlameSword/Obsidian-Repository.git - only pics maybe useful
 - git clone https://github.com/lee-jian-hui/FIT3181-Deep-Learning.git - lectures, tutorials, exams, assignments
-- git clone https://github.com/CheeMinHao/FIT3181_Tute_Assignment.git -
-- git clone https://github.com/Rocky-Zhang-Ya/Assignment-one-ml.git
-- git clone https://github.com/TheUnseenz/Monash.git
+- git clone https://github.com/CheeMinHao/FIT3181_Tute_Assignment.git - tutorials
+- git clone https://github.com/Rocky-Zhang-Ya/Assignment-one-ml.git - assignment 1
+- git clone https://github.com/TheUnseenz/Monash.git - many subjects, exam notes,
 - git clone https://github.com/lee-jian-hui/FIT3181-Deep-Learning.git
 - git clone https://github.com/multipletwigs/FIT3181-Deep-Learning.git DL-multi
 - git clone https://github.com/0luhancheng0/deeplearning_assignment1.git
